@@ -1,2 +1,1 @@
-# sorting_algorithms
-alx-sorting_algorithm
+0x1B. C - Sorting algorithms & Big O
